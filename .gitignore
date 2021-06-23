@@ -4,6 +4,9 @@ dist
 dist-ssr
 *.local
 
+# JSDoc generated files
+docs/
+
 # Cypress
 cypress/downloads
 cypress/screenshots
