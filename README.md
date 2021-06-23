@@ -1,5 +1,10 @@
-# t42-client-vite
-Vite + React project with Material UI, unit testing with Jest + Testing Library, and integration testing with Cypress.
+# Vite + React template
+Vite + React project template, using:
+
+* Component framework: [Material-UI](https://material-ui.com/)
+* Unit testing: [Jest](https://jestjs.io/) + [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+* E2E testing: [Cypress](https://www.cypress.io/)
+* Documentation: [JSDoc](https://jsdoc.app/) + [clean-jsdoc-theme](https://www.npmjs.com/package/clean-jsdoc-theme)
 
 ## Scripts
 * `npm run dev`: Start Vite dev server

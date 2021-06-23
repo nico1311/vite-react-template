@@ -30,14 +30,14 @@
       "meta": [
         {
           "name": "author",
-          "content": "Team 42"
+          "content": "nico1311"
         },
         {
           "name": "description",
-          "content": "Documentation about ONG Proyect by Team 42."
+          "content": "Example project"
         }
       ],
-      "footer": "<footer>Copyright © 2021. All rights reserved. Team 42.</footer>"
+      "footer": "<footer>© Copyright 2021. All rights reserved.</footer>"
     }
   },
   "tags": {
